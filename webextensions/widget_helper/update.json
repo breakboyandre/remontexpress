@@ -3,17 +3,17 @@
     "8916268815@mail.ru": {
       "updates": [
         { "version": "1.0",
-          "update_link": "https://amo-phpapps1.re4net.org/webextensions/widget_helper/versions/1.0/widget_helper-1.0-fx.xpi" },
+          "update_link": "https://github.com/breakboyandre/remontexpress/blob/master/webextensions/widget_helper/versions/1.0/widget_helper-1.0-fx.xpi?raw=true" },
           { "version": "1.0.1",
-          "update_link": "https://amo-phpapps1.re4net.org/webextensions/widget_helper/versions/1.0.1/widget_helper-1.0.1-fx.xpi" },
+          "update_link": "https://github.com/breakboyandre/remontexpress/blob/master/webextensions/widget_helper/versions/1.0.1/widget_helper-1.0.1-fx.xpi?raw=true" },
           { "version": "1.0.2",
-          "update_link": "https://amo-phpapps1.re4net.org/webextensions/widget_helper/versions/1.0.2/widget_helper-1.0.2-fx.xpi" },
+          "update_link": "https://github.com/breakboyandre/remontexpress/blob/master/webextensions/widget_helper/versions/1.0.2/widget_helper-1.0.2-fx.xpi?raw=true" },
           { "version": "1.0.3",
-          "update_link": "https://amo-phpapps1.re4net.org/webextensions/widget_helper/versions/1.0.3/widget_helper-1.0.3-fx.xpi" },
+          "update_link": "https://github.com/breakboyandre/remontexpress/blob/master/webextensions/widget_helper/versions/1.0.3/widget_helper-1.0.3-fx.xpi?raw=true" },
           { "version": "1.0.4",
-          "update_link": "https://amo-phpapps1.re4net.org/webextensions/widget_helper/versions/1.0.4/widget_helper-1.0.4-fx.xpi" },
+          "update_link": "https://github.com/breakboyandre/remontexpress/blob/master/webextensions/widget_helper/versions/1.0.4/widget_helper-1.0.4-fx.xpi?raw=true" },
           { "version": "1.0.5",
-          "update_link": "https://amo-phpapps1.re4net.org/webextensions/widget_helper/versions/1.0.5/widget_helper-1.0.5-fx.xpi" }
+          "update_link": "https://github.com/breakboyandre/remontexpress/blob/master/webextensions/widget_helper/versions/1.0.5/widget_helper-1.0.5-fx.xpi?raw=true" }
       ]
     }
   }
